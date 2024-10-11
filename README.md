@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="background.gif"  />
+  <img height="200" src="./background.gif"  />
 </div>
 
 ###
